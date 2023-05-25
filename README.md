@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Backend Developer from Russia.
+I am a junior web developer from Russia.
 
 
 ### 🛠 &nbsp;Languages and Tools :

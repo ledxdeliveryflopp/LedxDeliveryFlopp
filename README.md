@@ -10,7 +10,7 @@ I am a junior web developer from Russia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" alt="POSTGRESQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"  title="QT" alt="QT" width="40" height="40"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/534804?v=4"  title="PySide6" alt="PySide6" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/534804?s=200&v=4"  title="PySide6" alt="PySide6" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>

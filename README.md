@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-I am a junior web developer from Russia.
+I am a junior python developer from Russia.
 
 
 ### 🛠 &nbsp;Languages and Tools :

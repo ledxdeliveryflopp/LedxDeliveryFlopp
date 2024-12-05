@@ -6,6 +6,8 @@ I am a junior python developer from Russia.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GOLANG" alt="GOLANG" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FASTAPI" alt="FASTAPI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" alt="POSTGRESQL" width="40" height="40"/>&nbsp;

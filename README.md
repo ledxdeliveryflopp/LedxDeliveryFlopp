@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-I am a junior python and golang developer from Russia.
+I am a python developer/qa auto VoIP.
 
 
 ### 🛠 &nbsp;Languages and Tools :

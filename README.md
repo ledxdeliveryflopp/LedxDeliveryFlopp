@@ -24,5 +24,5 @@ I am a python developer/qa auto VoIP.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LedxDeliveryFlopp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:490452972136955905)
+[![Discord Presence](https://lanyard.cnrad.dev/api/490452972136955905)](https://discord.com/users/490452972136955905)
 ---

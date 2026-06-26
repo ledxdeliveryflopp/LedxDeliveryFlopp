@@ -1,8 +1,3 @@
-### :woman_technologist: &nbsp;About Me :
-
-I am a python developer/qa auto VoIP.
-
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
